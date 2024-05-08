@@ -1,0 +1,163 @@
+body{
+  background-color: #ec9a3c;
+}
+
+h1{
+  text-align: center;
+}
+
+#Logo {
+  height: 330px;
+  width: 600px;
+  margin: 10px 15px 40px 650px; 
+}
+
+#armario {
+  height: 310px;
+  width: 340px;
+}
+
+#armario2 {
+  height: 341px;
+  width: 340px;
+}
+
+#armario3 {
+  height: 341px;
+  width: 340px;
+}
+
+#cadeira {
+  height: 310px;
+  width: 340px;
+}
+
+#cadeira2 {
+  height: 310px;
+  width: 340px;
+}
+
+#cadeira3 {
+  height: 310px;
+  width: 340px;
+}
+
+#mesa {
+  height: 310px;
+  width: 340px;
+}
+
+#mesa2 {
+  height: 310px;
+  width: 340px;
+}
+
+#mesa3 {
+  height: 310px;
+  width: 340px;
+}
+
+#sofa {
+  height: 310px;
+  width: 340px;
+}
+
+#sofa2 {
+  height: 310px;
+  width: 340px;
+}
+
+#sofa3 {
+  height: 310px;
+  width: 340px;
+}
+
+#pia {
+  height: 310px;
+  width: 340px;
+}
+
+#pia2 {
+  height: 310px;
+  width: 340px;
+}
+
+#pia3 {
+  height: 310px;
+  width: 340px;
+}
+
+#cama {
+  height: 310px;
+  width: 340px;
+}
+
+#cama2 {
+  height: 310px;
+  width: 340px;
+}
+
+#cama3 {
+  height: 310px;
+  width: 340px;
+}
+
+#fogão {
+  height: 310px;
+  width: 340px;
+}
+
+#fogão2 {
+  height: 310px;
+  width: 340px;
+}
+
+#fogão3 {
+  height: 310px;
+  width: 340px;
+}
+
+#geladeira {
+  height: 310px;
+  width: 340px;
+}
+
+#geladeira2 {
+  height: 310px;
+  width: 340px;
+}
+
+#geladeira3 {
+  height: 310px;
+  width: 340px;
+}
+
+#maquina {
+  height: 310px;
+  width: 340px;
+}
+
+#maquina2 {
+  height: 310px;
+  width: 340px;
+}
+
+#maquina3 {
+  height: 310px;
+  width: 340px;
+}
+
+#berço {
+  height: 310px;
+  width: 340px;
+}
+
+#berço2 {
+  height: 310px;
+  width: 340px;
+}
+
+#berço3 {
+  height: 310px;
+  width: 340px;
+}
